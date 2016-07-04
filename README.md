@@ -4,7 +4,7 @@
 
 # How to use
 
-Fill in those keys in cred.go:
+Fill in the blanks in cred.go:
 
 ```go
 // ConsumerKey is...
