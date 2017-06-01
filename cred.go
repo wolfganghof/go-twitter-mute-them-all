@@ -1,13 +1,13 @@
 package main
 
 // ConsumerKey is...
-const ConsumerKey = "rHNmQrmg7c1fdtlTGx06s00C"
+const ConsumerKey = ""
 
 // ConsumerSecret is...
-const ConsumerSecret = "Z7kHU6RroRAX2IR9DGLOcPcxKgeT6OzxDafCwawAxfJykkwOYM"
+const ConsumerSecret = ""
 
 // OAuthToken is...
-const OAuthToken = "853675756064518145-LqLZPqZCCn0ztlWw3hx9vqCrhIj4IVQ"
+const OAuthToken = ""
 
 // OAuthSecret is...
-const OAuthSecret = "9vPEwYXBGjkuTMwSlG1qRwIBfHBQ6kgcLtjJ6ekMJffst"
+const OAuthSecret = ""
